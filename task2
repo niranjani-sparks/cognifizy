@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang>
+<head>
+    <title>Inline CSS Styling - Task 2</title>
+</head>
+<body style="background-color: lightblue; margin: 0; font-family: sans-serif, Arial Narrow;">
+
+    <div style="text-align: center; padding: 50px 20px;">
+        <h1 style="color: blue; font-size: 36px; margin-bottom: 20px;">Cognifyz</h1>
+        <p style="color: black; font-size: 24px; background-color: white; padding: 10px;">
+            Where Data Meets Intelligence
+        </p>
+    </div>
+
+</body>
+</html>
