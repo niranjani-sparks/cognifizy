@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Web Page</title>
+    <style>
+        body {
+            text-align: center;
+            font-family: Arial, sans-serif;
+        }
+        img {
+            width: 300px;
+        }
+    </style>
+</head>
+<body>
+    <h2>Welcome to my Web Page</h2>
+    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fworld-it.ro%2Fimages%2Flogo_html.png&f=1&nofb=1&ipt=78410f2abb176dd2ef143e1d669f79bcf9a00f2378731509c71149e882aa39ef" alt="HTML Logo">
+    <p>Hello! This is a paragraph describing the content of my first HTML page. I am learning how to structure webpages using HTML.</p>
+</body>
+</html>
